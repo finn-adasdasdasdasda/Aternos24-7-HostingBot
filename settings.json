@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "BROATTACK.aternos.me:24981",
+    "port": 24981,
     "version": "",
     "try-creative": false
   },
